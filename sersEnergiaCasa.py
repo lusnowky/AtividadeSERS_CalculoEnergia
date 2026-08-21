@@ -1,25 +1,11 @@
 # Lista de Aparelhos e seu gastos em kWh
 
-media = 0
-totalEnergia = 0
 gelad = 55
 tv = 15
 lamp = 2
 chuv = 50
 fogao = 60
 mqnLava = 15
-
-# ---------------------------------------------------
-
-# Variáveis de quantidade de itens
-
-totalItens = 0
-qtdGelad = 0
-qtdTv = 0
-qtdLamp = 0
-qtdChuv = 0
-qtdFogao = 0
-qtdMqnLava = 0
 
 # ---------------------------------------------------
 
