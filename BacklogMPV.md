@@ -1,6 +1,6 @@
 ## Problemas e melhorias sugeridas
 
-| Problema | Visão do cliente | Melhoria sugerida | Prioridade |
+| Problema | User Story | Critérios de aceite | Prioridade |
 | --- | --- | --- | --- |
 | Resultado pouco claro | “Não sei o que significa essa média.” | Explicar exatamente o que está sendo calculado | Alta |
 | Cálculo limitado | “Meu consumo não depende apenas da quantidade de aparelhos.” | Permitir informar consumo mensal real em kWh | Alta |
