@@ -1,16 +1,3 @@
-# MPV – Soluções em energia renovável
-
-**Fiap**
-
-- Gabriela Caetano - 572738
-- Laura Pícari - 569914
-- Lucas Neves - 572679
-- Caio Ceschini - 570798
-
-**São Paulo**
-
-**2026**
-
 ## Problemas e melhorias sugeridas
 
 | Problema | Visão do cliente | Melhoria sugerida | Prioridade |
