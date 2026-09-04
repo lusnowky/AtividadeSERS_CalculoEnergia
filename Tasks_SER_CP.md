@@ -18,30 +18,6 @@
   ----------------------------------- -----------------------------------
 
   ----------------------------------- -----------------------------------
-  **User Story:**                     Quero entender exatamente o que
-                                      significa o resultado apresentado,
-                                      para saber o que está sendo
-                                      calculado.
-
-  **Critérios de aceite**             Exibir uma explicação indicando
-                                      exatamente a quantidade de intens que estão sendo
-                                      calculados e o que o resultado
-                                      representa.
-
-  **Componentes envolvidos**          Interface/resultado/explicação do
-                                      cálculo.
-
-  **Dependência**                     Análise do problema do resultado
-                                      pouco claro; definição do cálculo e
-                                      da informação que deverá ser
-                                      apresentada.
-
-  **Condição de conclusão**           Testar o resultado apresentado e
-                                      verificar se a explicação permite
-                                      compreender corretamente o cálculo.
-  ----------------------------------- -----------------------------------
-
-  ----------------------------------- -----------------------------------
   **User Story:**                     Quero informar meu consumo mensal
                                       real, para que o cálculo
                                       represente meu consumo de energia.
