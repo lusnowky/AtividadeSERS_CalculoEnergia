@@ -43,7 +43,7 @@
 
   ----------------------------------- -----------------------------------
   **User Story:**                     Quero informar meu consumo mensal
-                                      real em kWh, para que o cálculo
+                                      real, para que o cálculo
                                       represente meu consumo de energia.
 
   **Critérios de aceite**             Permitir informar o consumo de cada item individualmente manualmente
@@ -131,7 +131,7 @@
                                       conseguir comparar os valores
                                       registrados ao longo dos meses.
 
-  **Critérios de aceite**             Criar gráfico mensal representando
+  **Critérios de aceite**             Criar texto representando
                                       o consumo registrado.
 
   **Componentes envolvidos**          Interface/histórico de
