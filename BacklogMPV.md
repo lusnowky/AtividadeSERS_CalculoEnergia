@@ -8,7 +8,7 @@
 | Não mostra maior consumo | “Quero saber qual foi meu pior mês.” | Identificar automaticamente o maior consumo | Alta |
 | Não mostra o mês do pico | “Quando eu mais consumi energia?” | Informar mês/ano do maior consumo | Média |
 | Não há resumo | “Quero entender meu resultado rapidamente.” | Criar um resumo energético | Alta |
-| Não há gráfico | “Queria visualizar meu consumo.” | Registro por escrito de cada coisa dentro do consumo mensal | Baixa |
+| Não há visibilidade | “Queria visualizar meu consumo.” | Registro por escrito de cada coisa dentro do consumo mensal | Baixa |
 | Entradas podem gerar erro | “E se eu colocar 0 ou um valor inválido?” | Gerar resposta de erro | Alta |
 
 ## Metas para a próxima versão
