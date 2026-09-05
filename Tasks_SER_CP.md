@@ -2,9 +2,8 @@
   **User Story:**                     Implementar o cálculo da média do
                                       consumo mensal registrado em kWh.
 
-  **Critérios de aceite**             Exibir uma explicação indicando o
-                                      que representa a média de consumo
-                                      apresentada.
+  **Critérios de aceite**             Exibir o que está sendo calculado
+                                      e como chegou na média mensal.
 
   **Componentes envolvidos.**         Interface/dados/resumo
                                       individual/resumo geral.
@@ -15,41 +14,16 @@
                                       entrega
 
   **Condição de conclusão.**          Testar o cálculo da média com
-                                      diferentes quantidades de meses
-                                      cadastrados.
-  ----------------------------------- -----------------------------------
-
-  ----------------------------------- -----------------------------------
-  **User Story:**                     Quero entender exatamente o que
-                                      significa o resultado apresentado,
-                                      para saber o que está sendo
-                                      calculado.
-
-  **Critérios de aceite**             Exibir uma explicação indicando
-                                      exatamente o que está sendo
-                                      calculado e o que o resultado
-                                      representa.
-
-  **Componentes envolvidos**          Interface/resultado/explicação do
-                                      cálculo.
-
-  **Dependência**                     Análise do problema do resultado
-                                      pouco claro; definição do cálculo e
-                                      da informação que deverá ser
-                                      apresentada.
-
-  **Condição de conclusão**           Testar o resultado apresentado e
-                                      verificar se a explicação permite
-                                      compreender corretamente o cálculo.
+                                      diferentes quantidades.
   ----------------------------------- -----------------------------------
 
   ----------------------------------- -----------------------------------
   **User Story:**                     Quero informar meu consumo mensal
-                                      real em kWh, para que o cálculo
+                                      real, para que o cálculo
                                       represente meu consumo de energia.
 
-  **Critérios de aceite**             Permitir informar o consumo mensal
-                                      real em kWh.
+  **Critérios de aceite**             Permitir informar o consumo de cada item individualmente manualmente
+                                      para um cálculo mais preciso.
 
   **Componentes envolvidos**          Interface/dados de consumo/cálculo.
 
@@ -62,29 +36,6 @@
                                       valores de consumo mensal em kWh e
                                       verificar se eles são utilizados
                                       corretamente no cálculo.
-  ----------------------------------- -----------------------------------
-
-  ----------------------------------- -----------------------------------
-  **User Story:**                     Quero cadastrar e registrar meu
-                                      consumo de vários meses, para
-                                      conseguir acompanhar meu consumo ao
-                                      longo do tempo.
-
-  **Critérios de aceite**             Criar cadastro e registro de vários
-                                      meses de consumo.
-
-  **Componentes envolvidos**          Interface/cadastro de
-                                      consumo/histórico de meses/dados.
-
-  **Dependência**                     Implementação do cadastro de
-                                      consumo mensal e estrutura para
-                                      armazenar os registros de
-                                      diferentes meses.
-
-  **Condição de conclusão**           Testar o cadastro de diferentes
-                                      meses e verificar se todos os
-                                      registros são mantidos e podem ser
-                                      consultados.
   ----------------------------------- -----------------------------------
 
   ----------------------------------- -----------------------------------
@@ -156,7 +107,7 @@
                                       conseguir comparar os valores
                                       registrados ao longo dos meses.
 
-  **Critérios de aceite**             Criar gráfico mensal representando
+  **Critérios de aceite**             Criar texto representando
                                       o consumo registrado.
 
   **Componentes envolvidos**          Interface/histórico de
@@ -193,49 +144,4 @@
                                       inválidos e valores válidos e
                                       verificar se o sistema responde
                                       corretamente em cada situação.
-  ----------------------------------- -----------------------------------
-
-  ----------------------------------- ----------------------------------------
-  **User Story:**                     Quero que meus dados sejam salvos, para
-                                      não perder minhas informações quando
-                                      fechar o programa.
-
-  **Critérios de aceite**             Implementar persistência/banco de dados
-                                      para armazenar os dados cadastrados.
-
-  **Componentes envolvidos**          Banco de
-                                      dados/persistência/cadastro/histórico.
-
-  **Dependência**                     Definição dos dados que serão
-                                      armazenados e implementação do cadastro
-                                      de consumo.
-
-  **Condição de conclusão**           Cadastrar dados, fechar e abrir
-                                      novamente o programa e verificar se as
-                                      informações permanecem salvas
-                                      corretamente.
-  ----------------------------------- ----------------------------------------
-
-  ----------------------------------- -----------------------------------
-  **User Story:**                     Quero ter um usuário e um imóvel
-                                      cadastrados, para saber onde meus
-                                      dados de consumo estão armazenados.
-
-  **Critérios de aceite**             Criar cadastro de usuário e imóvel
-                                      e associar os dados de consumo ao
-                                      cadastro correspondente.
-
-  **Componentes envolvidos**          Interface/cadastro de
-                                      usuário/cadastro de imóvel/banco de
-                                      dados/dados de consumo.
-
-  **Dependência**                     Implementação da persistência/banco
-                                      de dados e definição da relação
-                                      entre usuário, imóvel e consumo.
-
-  **Condição de conclusão**           Testar o cadastro de usuário e
-                                      imóvel, registrar consumos e
-                                      verificar se os dados ficam
-                                      corretamente associados e
-                                      armazenados.
   ----------------------------------- -----------------------------------
