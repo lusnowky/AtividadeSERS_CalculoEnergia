@@ -51,3 +51,14 @@ sistema passa a trabalhar sobre esse histórico.
 > o cálculo, a validação e a visualização estiverem estáveis.
 
 ---
+
+## Metas para a próxima versão (ordem de execução)
+
+1. Corrigir/clarear o cálculo → **PB03**
+2. Permitir cadastrar consumo de vários meses → **PB02**
+3. Calcular média e maior consumo → **PB03 / PB04**
+4. Mostrar o mês de maior consumo → **PB05**
+5. Criar um resumo do resultado → **PB06**
+6. Adicionar validações → **PB07**
+7. Adicionar gráfico → **PB08**
+8. Implementar usuário, imóvel e persistência dos dados → **PB01 (base) / PB09 (persistência, por último)**
